@@ -1,6 +1,7 @@
 # HTML CSS Refactor
 
 ## Description
+![Screenshot](assets/images/screenshot.png)
 
 This project is part of a Challenge assignment. The purpose was to refactor an existing codebase in something called "On-the-job" or "feature request challenges" where a start code located in a [Develop] folder. 
 I have learned what type of HTML Semantics there are and how to utilize them to refactor the html into a cleaner and more understandable codebase. This in turn allowed me to clean up and optimize the CSS for the site.
@@ -18,7 +19,7 @@ code source: https://github.com/coding-boot-camp/urban-octo-telegram
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2024] [Stephen Wei]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
